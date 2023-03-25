@@ -19,7 +19,7 @@ class ByteStream {
     // different approaches.
 
 	
-	std::vector<char>_buffer;
+	std::vector<char> _buffer;
 	size_t _readIndex;
 	size_t _writeIndex;
 	const size_t _capacity;
