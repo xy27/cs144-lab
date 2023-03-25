@@ -1,0 +1,24 @@
+Start testing: Mar 16 20:51 CST
+----------------------------------------------------------
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/home/b52/test/cs144/sponge/tests/webget_t.sh"
+Directory: /home/b52/test/cs144/sponge/build
+"t_webget" start time: Mar 16 20:51 CST
+Output:
+----------------------------------------------------------
+Function called: get_URL(recv: HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+cs144.keithw.org, /nph-hasher/xyzzy).
+Warning: get_URL() has not been implemented yet.
+<end of output>
+Test time =   1.85 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Mar 16 20:52 CST
+"t_webget" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Mar 16 20:52 CST
